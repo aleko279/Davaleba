@@ -1,0 +1,108 @@
+2023-03-28 00:01:35.3127 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 00:01:35.5232 INFO Returning 34 users.
+2023-03-28 00:04:27.0319 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 00:04:27.2719 INFO Returning 34 users.
+2023-03-28 00:05:33.6099 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 00:05:33.6192 INFO Returning 34 users.
+2023-03-28 00:08:41.5986 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 00:08:41.5986 INFO Returning 34 users.
+2023-03-28 00:11:50.6568 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 00:11:50.6985 INFO Returning 34 users.
+2023-03-28 00:13:37.3321 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 00:13:40.9139 INFO Returning 34 users.
+2023-03-28 19:43:08.1054 INFO Fetching the User from the Database Davaleba
+2023-03-28 19:43:11.9150 INFO Returning 3 user.
+2023-03-28 19:49:27.2055 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 19:49:27.4631 INFO Returning 34 users.
+2023-03-28 19:54:42.3517 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 19:54:45.7106 INFO Returning 34 users.
+2023-03-28 19:55:12.4607 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 19:55:12.5442 INFO Returning 34 users.
+2023-03-28 19:59:10.2839 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 19:59:10.4982 INFO Returning 34 users.
+2023-03-28 20:01:29.4706 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 20:01:29.4825 INFO Returning 34 users.
+2023-03-28 20:03:15.8367 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 20:03:15.8367 INFO Returning 34 users.
+2023-03-28 20:04:45.8821 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 20:04:45.9052 INFO Returning 34 users.
+2023-03-28 20:08:21.7567 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 20:08:21.7738 INFO Returning 34 users.
+2023-03-28 20:08:34.7748 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 20:08:34.7748 INFO Returning 34 users.
+2023-03-28 20:32:21.1105 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 20:32:21.1363 INFO Returning 34 users.
+2023-03-28 20:35:17.4650 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 20:35:17.4898 INFO Returning 34 users.
+2023-03-28 20:38:19.9160 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 20:38:19.9538 INFO Returning 34 users.
+2023-03-28 20:43:36.9483 INFO Adding the User to the Database Davaleba
+2023-03-28 20:43:53.0458 INFO Adding the User to the Database Davaleba
+2023-03-28 20:45:03.1464 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 20:45:03.2128 INFO Returning 32 users.
+2023-03-28 20:52:16.8774 INFO Adding the User to the Database Davaleba
+2023-03-28 20:52:28.4899 INFO Adding the User to the Database Davaleba
+2023-03-28 20:54:17.9605 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 20:54:17.9605 INFO Returning 31 users.
+2023-03-28 21:16:55.8894 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 21:16:55.9215 INFO Returning 31 users.
+2023-03-28 21:16:59.8435 INFO Adding the User to the Database Davaleba
+2023-03-28 21:17:10.0271 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 21:17:10.0366 INFO Returning 31 users.
+2023-03-28 21:17:13.0484 INFO Adding the User to the Database Davaleba
+2023-03-28 21:17:22.8526 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 21:17:22.8526 INFO Returning 31 users.
+2023-03-28 21:17:32.7226 INFO Adding the User to the Database Davaleba
+2023-03-28 21:20:13.5073 INFO Adding the User to the Database Davaleba
+2023-03-28 21:20:33.2914 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 21:20:33.3036 INFO Returning 31 users.
+2023-03-28 21:20:41.8778 INFO Adding the User to the Database Davaleba
+2023-03-28 21:20:50.2971 INFO Adding the User to the Database Davaleba
+2023-03-28 21:20:58.7725 INFO Adding the User to the Database Davaleba
+2023-03-28 21:21:02.1479 INFO Adding the User to the Database Davaleba
+2023-03-28 21:21:05.7508 INFO Adding the User to the Database Davaleba
+2023-03-28 21:21:09.7891 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 21:21:09.8006 INFO Returning 27 users.
+2023-03-28 21:25:52.8281 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 21:25:52.8431 INFO Returning 27 users.
+2023-03-28 21:38:39.4338 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 21:38:39.4537 INFO Returning 27 users.
+2023-03-28 21:39:27.7057 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 21:39:27.7124 INFO Returning 27 users.
+2023-03-28 21:40:54.6762 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 21:40:54.6917 INFO Returning 27 users.
+2023-03-28 21:41:36.7413 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 21:41:36.7734 INFO Returning 27 users.
+2023-03-28 22:18:49.1325 INFO Adding the User to the Database Davaleba
+2023-03-28 22:18:55.5454 INFO Adding the User to the Database Davaleba
+2023-03-28 22:19:13.9135 INFO Adding the User to the Database Davaleba
+2023-03-28 22:20:24.6653 INFO Adding the User to the Database Davaleba
+2023-03-28 22:21:41.5135 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 22:21:41.5234 INFO Returning 26 users.
+2023-03-28 22:22:25.3273 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 22:22:25.3427 INFO Returning 26 users.
+2023-03-28 22:22:31.8821 INFO Adding the User to the Database Davaleba
+2023-03-28 22:22:36.6456 INFO Adding the User to the Database Davaleba
+2023-03-28 22:25:25.3205 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 22:25:25.3381 INFO Returning 25 users.
+2023-03-28 22:25:28.5402 INFO Adding the User to the Database Davaleba
+2023-03-28 22:26:57.9114 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 22:26:57.9114 INFO Returning 24 users.
+2023-03-28 22:27:01.4379 INFO Adding the User to the Database Davaleba
+2023-03-28 22:27:17.0064 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 22:27:17.0206 INFO Returning 23 users.
+2023-03-28 22:27:22.2434 INFO Adding the User to the Database Davaleba
+2023-03-28 22:27:27.5232 INFO Adding the User to the Database Davaleba
+2023-03-28 22:27:32.3180 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 22:27:32.3180 INFO Returning 21 users.
+2023-03-28 22:33:59.4512 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 22:33:59.4658 INFO Returning 21 users.
+2023-03-28 22:35:08.0337 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 22:35:08.0462 INFO Returning 21 users.
+2023-03-28 22:35:14.2283 INFO Adding the User to the Database Davaleba
+2023-03-28 23:52:54.8257 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 23:52:54.8561 INFO Returning 20 users.
+2023-03-28 23:54:27.8104 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 23:54:27.8352 INFO Returning 20 users.
+2023-03-28 23:56:35.2654 INFO Fetching all the Users from the Database Davaleba
+2023-03-28 23:56:35.2774 INFO Returning 20 users.

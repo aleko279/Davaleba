@@ -1,0 +1,96 @@
+2023-03-26 17:04:09.6311 INFO Adding the User to the Database Davaleba
+2023-03-26 17:04:20.4343 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:04:32.6648 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:04:32.7097 INFO Returning 3 user.
+2023-03-26 17:04:42.8004 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:04:42.8144 INFO Returning 3 user.
+2023-03-26 17:12:43.7875 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:12:49.2750 INFO Returning 3 user.
+2023-03-26 17:12:58.5839 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:12:58.8035 INFO Returning 3 user.
+2023-03-26 17:13:11.3433 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:13:11.4189 INFO Returning 3 user.
+2023-03-26 17:14:04.7536 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:14:04.7536 INFO Returning 3 user.
+2023-03-26 17:17:40.8217 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:17:40.8410 INFO Returning 3 user.
+2023-03-26 17:20:08.4160 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:20:08.4263 INFO Returning 3 user.
+2023-03-26 17:22:16.8257 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:22:16.8380 INFO Returning 3 user.
+2023-03-26 17:22:46.5976 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:22:46.5976 INFO Returning 3 user.
+2023-03-26 17:22:57.4876 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:22:57.4979 INFO Returning 3 user.
+2023-03-26 17:24:52.6360 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:24:52.6485 INFO Returning 3 user.
+2023-03-26 17:25:45.4689 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:25:45.4925 INFO Returning 3 user.
+2023-03-26 17:39:42.4583 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 17:39:44.5138 INFO Fetching the User from the Database Davaleba
+2023-03-26 17:39:47.5716 INFO Returning 2 users.
+2023-03-26 17:39:47.5716 INFO Returning 3 user.
+2023-03-26 17:39:48.9576 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 17:39:49.1246 INFO Returning 2 users.
+2023-03-26 17:41:15.3416 INFO Adding the User to the Database Davaleba
+2023-03-26 17:41:15.8724 INFO Adding 0 user.
+2023-03-26 17:41:33.4649 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 17:41:33.4649 INFO Returning 3 users.
+2023-03-26 17:41:38.1788 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 17:41:38.1788 INFO Returning 3 users.
+2023-03-26 20:21:41.5820 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 20:21:46.1803 INFO Returning 3 users.
+2023-03-26 20:22:20.9509 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 20:22:21.0483 INFO Returning 3 users.
+2023-03-26 20:57:35.7214 INFO Adding the User to the Database Davaleba
+2023-03-26 20:57:36.1576 INFO Adding 0 user.
+2023-03-26 20:58:14.7127 INFO Adding the User to the Database Davaleba
+2023-03-26 21:09:29.8287 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:09:29.8486 INFO Returning 4 users.
+2023-03-26 21:09:51.5498 INFO Adding the User to the Database Davaleba
+2023-03-26 21:09:51.5896 INFO Adding 0 user.
+2023-03-26 21:10:00.4688 INFO Adding the User to the Database Davaleba
+2023-03-26 21:10:30.2001 INFO Adding the User to the Database Davaleba
+2023-03-26 21:10:36.4542 INFO Adding 0 user.
+2023-03-26 21:10:57.7688 INFO Adding the User to the Database Davaleba
+2023-03-26 21:11:00.7188 INFO Adding 0 user.
+2023-03-26 21:12:32.6300 INFO Adding the User to the Database Davaleba
+2023-03-26 21:12:47.2556 INFO Adding 0 user.
+2023-03-26 21:13:24.5433 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:13:24.5768 INFO Returning 8 users.
+2023-03-26 21:17:57.5809 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:17:57.5998 INFO Returning 8 users.
+2023-03-26 21:18:03.8185 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:18:03.8185 INFO Returning 8 users.
+2023-03-26 21:20:51.9406 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:20:51.9634 INFO Returning 8 users.
+2023-03-26 21:21:32.6793 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:21:32.7053 INFO Returning 8 users.
+2023-03-26 21:22:33.8130 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:22:33.8227 INFO Returning 8 users.
+2023-03-26 21:23:17.7276 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:23:17.7276 INFO Returning 8 users.
+2023-03-26 21:25:02.0613 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:25:02.0781 INFO Returning 8 users.
+2023-03-26 21:25:35.8602 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:25:35.8697 INFO Returning 8 users.
+2023-03-26 21:28:22.5438 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:28:22.5618 INFO Returning 8 users.
+2023-03-26 21:39:14.3803 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:39:14.3803 INFO Returning 8 users.
+2023-03-26 21:54:22.7820 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 21:54:22.7988 INFO Returning 8 users.
+2023-03-26 23:08:08.9193 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 23:08:08.9390 INFO Returning 8 users.
+2023-03-26 23:10:53.6002 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 23:10:53.6152 INFO Returning 8 users.
+2023-03-26 23:13:32.5738 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 23:13:32.5930 INFO Returning 8 users.
+2023-03-26 23:17:43.6166 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 23:17:43.7834 INFO Returning 8 users.
+2023-03-26 23:18:32.2676 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 23:18:32.2754 INFO Returning 8 users.
+2023-03-26 23:22:37.9487 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 23:22:37.9630 INFO Returning 8 users.
+2023-03-26 23:23:13.9599 INFO Fetching all the Users from the Database Davaleba
+2023-03-26 23:23:13.9599 INFO Returning 8 users.

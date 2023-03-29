@@ -1,0 +1,7 @@
+2023-03-29 00:00:24.7247 INFO Fetching all the Users from the Database Davaleba
+2023-03-29 00:00:24.7848 INFO Returning 20 users.
+2023-03-29 00:04:03.2619 INFO Fetching all the Users from the Database Davaleba
+2023-03-29 00:04:03.2844 INFO Returning 20 users.
+2023-03-29 00:05:25.1425 INFO Fetching all the Users from the Database Davaleba
+2023-03-29 00:05:25.1824 INFO Returning 20 users.
+2023-03-29 00:18:51.5296 INFO Adding the User to the Database Davaleba
