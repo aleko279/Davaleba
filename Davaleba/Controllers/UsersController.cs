@@ -21,7 +21,7 @@ namespace Davaleba.Controllers
             _logger = loggerManager;
         }
 
-        //        [HttpGet, Authorize]
+        //        [HttpGet, Authorize] // ავტორიზებული მომხმარებლებისთვის
         [HttpGet]
         public IActionResult Get()
         {
